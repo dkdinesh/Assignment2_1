@@ -1,0 +1,21 @@
+# 2.1
+
+#1 Question
+
+Methods to call the functions : 
+  there are three ways : 
+    1. User defined function
+    2. Nested function 
+    3. Anonymous function .
+
+# 2 Question 
+ 
+Answer : TRUE
+
+# 3 Question 
+
+Answere : 
+	a.false
+	b.false
+	c.true
+	d.true 
